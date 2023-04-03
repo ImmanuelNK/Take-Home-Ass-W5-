@@ -1,0 +1,11 @@
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\bin\Debug\take Home Ass W5.exe.config
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\bin\Debug\take Home Ass W5.exe
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\bin\Debug\take Home Ass W5.pdb
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.csproj.AssemblyReference.cache
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.csproj.SuggestedBindingRedirects.cache
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take_Home_Ass_W5.Form1.resources
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take_Home_Ass_W5.Properties.Resources.resources
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.csproj.GenerateResource.cache
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.csproj.CoreCompileInputs.cache
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.exe
+C:\Users\noeln\OneDrive\Dokumen\College\take Home Ass W5\take Home Ass W5\obj\Debug\take Home Ass W5.pdb
